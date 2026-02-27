@@ -1,16 +1,18 @@
-## Hi there 👋
+# James Rallis
 
-<!--
-**jrallis988/jrallis988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer & Multimedia Designer
 
-Here are some ideas to get you started:
+I build accessible, performance-focused websites and interfaces using modern frontend tools, with a strong foundation in UX, typography, and visual systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML, CSS, JavaScript
+- React
+- Responsive & accessible UI
+- Design systems
+- Git & GitHub
+
+## Projects
+Selected work coming soon.
+
+## Contact
+- GitHub: https://github.com/jrallis988
