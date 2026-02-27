@@ -2,7 +2,7 @@
 
 Frontend Engineer & Multimedia Designer
 
-I build accessible, performance-focused websites and interfaces using modern frontend tools, with a strong foundation in UX, typography, and visual systems.
+I build accessible, performance-focused web interfaces using modern frontend tools. My work focuses on clean UI, responsive layouts, and UX-driven design systems.
 
 ## Skills
 - HTML, CSS, JavaScript
@@ -11,8 +11,10 @@ I build accessible, performance-focused websites and interfaces using modern fro
 - Design systems
 - Git & GitHub
 
-## Projects
-Selected work coming soon.
+### Projects
+• Little Lemon – Frontend UI & responsive layout (HTML, CSS, JS)
+• Ongoing work in React and component-based UI systems
 
-## Contact
-- GitHub: https://github.com/jrallis988
+📫 Contact
+• GitHub: https://github.com/jrallis988
+• Portfolio: (coming soon)
